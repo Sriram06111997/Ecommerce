@@ -1,0 +1,17 @@
+'''
+Project Title: ECOMMERCE
+Date:27.03.2024 
+Author(s): Developed by Sriram
+Requirments: Django version 5.0.2,python,pillow
+
+Project Overview:
+
+Description:
+Our project involves developing an e-commerce website, an online platform where users can browse,
+purchase, and sell products. The website will serve as a virtual marketplace, providing a user-friendly
+interface for customers to explore a wide range of products from various categories such as fashion.
+
+Goals:
+User-Friendly Experience: Create a seamless and intuitive browsing and purchasing experience for customers,
+ensuring easy navigation.
+'''
